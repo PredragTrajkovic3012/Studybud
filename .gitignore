@@ -1,0 +1,4 @@
+base/migrations/
+db.sqlite3
+studybud/__pycache__/
+base/__pycache__/
